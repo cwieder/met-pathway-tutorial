@@ -1,0 +1,325 @@
+S-1-pyrroline-5-carboxylate
+spermidine
+1-methylnicotinamide
+12,13-DiHOME
+5-hydroxyindoleacetate
+alpha-ketoglutarate
+kynurenate
+3-hydroxyisobutyrate
+3-hydroxy-3-methylglutarate
+homovanillate (HVA)
+3-phosphoglycerate
+cholate
+4-hydroxyphenylacetate
+5,6-dihydrothymine
+hypoxanthine
+9,10-DiHOME
+linoleate (18:2n6)
+laurate (12:0)
+quinolinate
+N6,N6,N6-trimethyllysine
+N-acetylputrescine
+N-formylmethionine
+S-adenosylhomocysteine (SAH)
+adenosine 3',5'-cyclic monophosphate (cAMP)
+adenosine 5'-monophosphate (AMP)
+5-methylthioadenosine (MTA)
+arachidonate (20:4n6)
+arginine
+aspartate
+2-hydroxyphenylacetate
+3-(4-hydroxyphenyl)lactate
+phenylpyruvate
+beta-alanine
+carnosine
+biliverdin
+succinate
+3-hydroxybutyrate (BHBA)
+cholesterol
+choline phosphate
+corticosterone
+cortisone
+creatinine
+cysteinylglycine
+cystine
+sphingosine
+deoxycholate
+cystathionine
+sphinganine
+flavin adenine dinucleotide (FAD)
+fumarate
+gamma-glutamylglutamate
+gluconate
+glutarate (C5-DC)
+glycine
+glycocholate
+guanidinoacetate
+histidine
+cortisol
+hypotaurine
+inosine
+myo-inositol
+isoleucine
+2-aminoadipate
+citrulline
+leucine
+lysine
+malate
+methionine
+palmitate (16:0)
+nicotinamide
+stearate (18:0)
+ornithine
+orotate
+palmitoleate (16:1n7)
+phenylalanine
+phosphate
+proline
+lactate
+pyridoxal
+retinol (Vitamin A)
+salicylate
+serine
+serotonin
+taurine
+myristate (14:0)
+urea
+uridine
+trans-urocanate
+glutamate
+glutamine
+threonine
+tryptophan
+valine
+glucose
+alpha-ketobutyrate
+adenosine
+betaine
+cysteine
+mannose
+dimethylglycine
+alanine
+tyrosine
+pseudouridine
+pyruvate
+uracil
+xylose
+cytidine
+caffeine
+fructose
+adenine
+cytosine
+caprate (10:0)
+margarate (17:0)
+nonadecanoate (19:0)
+arachidate (20:0)
+maltose
+asparagine
+N-stearoyl-sphinganine (d18:0/18:0)*
+dihydroorotate
+caproate (6:0)
+caprylate (8:0)
+pentadecanoate (15:0)
+trans-4-hydroxyproline
+allantoin
+xanthine
+5-oxoproline
+picolinate
+sarcosine
+pantothenate
+pipecolate
+phosphoethanolamine
+glycerate
+3-ureidopropionate
+N-acetylleucine
+N-acetylmethionine
+N-acetylvaline
+erucate (22:1n9)
+bilirubin (Z,Z)
+thyroxine
+gamma-glutamyltyrosine
+methyl indole-3-acetate
+alpha-tocopherol
+N-acetylalanine
+vanillylmandelate (VMA)
+4-acetamidobutanoate
+3-aminoisobutyrate
+citrate
+2-aminobutyrate
+urate
+ursodeoxycholate
+oleoyl ethanolamide
+gamma-glutamylglutamine
+4-hydroxyphenylpyruvate
+butyrate/isobutyrate (4:0)
+N-acetylneuraminate
+N-acetylglucosaminylasparagine
+acetoacetate
+creatine
+cys-gly, oxidized
+estrone 3-sulfate
+dihomo-linoleate (20:2n6)
+gamma-glutamylhistidine
+2-hydroxystearate
+N1-methyladenosine
+glycerol
+choline
+gamma-glutamylleucine
+3-methoxytyrosine
+4-acetamidophenol
+beta-hydroxyisovalerate
+arachidonoyl ethanolamide
+palmitoyl ethanolamide
+N-palmitoyl-sphingosine (d18:1/16:0)
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+1-palmitoyl-2-linoleoyl-GPI (16:0/18:2)
+1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)
+stearoyl sphingomyelin (d18:1/18:0)
+1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+N-stearoyl-sphingosine (d18:1/18:0)*
+glycochenodeoxycholate
+taurochenodeoxycholate
+taurocholate
+taurodeoxycholate
+2-hydroxyhippurate (salicylurate)
+3-(N-acetyl-L-cystein-S-yl) acetaminophen
+4-acetaminophen sulfate
+eicosapentaenoate (EPA; 20:5n3)
+methylsuccinate
+ethylmalonate
+carnitine
+benzoate
+3-phenylpropionate (hydrocinnamate)
+phenylacetate
+hippurate
+xanthurenate
+suberate (C8-DC)
+3-methyl-2-oxovalerate
+methionine sulfoxide
+3-methylhistidine
+4-acetamidophenylglucuronide
+5-hydroxylysine
+4-guanidinobutanoate
+glucuronate
+glycerol 3-phosphate
+imidazole lactate
+kynurenine
+glycerophosphorylcholine (GPC)
+maltotriose
+N-acetylglutamate
+tartarate
+xanthosine
+ribitol
+glycodeoxycholate
+theophylline
+quinate
+theobromine
+gentisate
+paraxanthine
+indolelactate
+3-indoxyl sulfate
+gamma-glutamylphenylalanine
+4-methyl-2-oxopentanoate
+1,5-anhydroglucitol (1,5-AG)
+1-palmityl-GPC (O-16:0)
+1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+sphingosine 1-phosphate
+1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+1-stearoyl-GPI (18:0)
+1,2-dipalmitoyl-GPC (16:0/16:0)
+docosahexaenoate (DHA; 22:6n3)
+1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+alpha-hydroxyisocaproate
+
+propionylcarnitine (C3)
+pro-hydroxy-pro
+3-hydroxy-2-ethylpropionate
+3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+docosapentaenoate (n3 DPA; 22:5n3)
+docosadienoate (22:2n6)
+adrenate (22:4n6)
+10-undecenoate (11:1n1)
+myristoleate (14:1n5)
+4-imidazoleacetate
+1-methyl-4-imidazoleacetate
+sebacate (C10-DC)
+stearidonate (18:4n3)
+5-dodecenoate (12:1n7)
+octanoylcarnitine (C8)
+tauro-beta-muricholate
+decanoylcarnitine (C10)
+N-acetylglutamine
+N-acetyltryptophan
+N-acetylphenylalanine
+gamma-glutamyl-epsilon-lysine
+1-palmitoyl-GPC (16:0)
+1-margaroyl-GPC (17:0)
+N-acetylarginine
+piperine
+campesterol
+myristoylcarnitine (C14)
+1-stearoyl-GPC (18:0)
+1-oleoyl-GPC (18:1)
+N-acetylthreonine
+N-acetylisoleucine
+10-nonadecenoate (19:1n9)
+10-heptadecenoate (17:1n7)
+epiandrosterone sulfate
+N-acetylhistidine
+gamma-glutamylglycine
+gamma-glutamyltryptophan
+stachydrine
+alpha-hydroxyisovalerate
+gamma-glutamylmethionine
+gamma-glutamylthreonine
+p-cresol sulfate
+erythronate*
+salicyluric glucuronide*
+eicosenoate (20:1)
+linolenate [alpha or gamma; (18:3n3 or 6)]
+aconitate [cis or trans]
+orotidine
+phenylacetylglutamine
+4-hydroxyhippurate
+5,6-dihydrouridine
+3-(3-amino-3-carboxypropyl)uridine*
+1-arachidonylglycerol (20:4)
+cysteine-glutathione disulfide
+5-methyluridine (ribothymidine)
+isovalerylglycine
+7-methylguanine
+1-stearoyl-GPE (18:0)
+3-methylcytidine
+N1-Methyl-2-pyridone-5-carboxamide
+gamma-glutamylisoleucine*
+oleoylcarnitine (C18:1)
+2-methylbutyrylcarnitine (C5)
+phenol sulfate
+1-palmitoleoyl-GPC (16:1)*
+malonylcarnitine
+hexanoylglycine
+glutamine_degradant*
+2-hydroxy-3-methylvalerate
+homostachydrine*
+1-arachidonoyl-GPC (20:4n6)*
+1-dihomo-linolenoyl-GPC (20:3n3 or 6)*
+1-dihomo-linoleoyl-GPC (20:2)*
+2-arachidonoyl-GPC (20:4)*
+2-oleoyl-GPC (18:1)*
+2-linoleoyl-GPC (18:2)*
+2-palmitoyl-GPC (16:0)*
+2-myristoyl-GPC (14:0)*
+1-docosahexaenoyl-GPC (22:6)*
+1-palmitoyl-GPE (16:0)
+1-oleoyl-GPE (18:1)
+1-linoleoyl-GPE (18:2)*
+1-arachidonoyl-GPE (20:4n6)*
+N-acetylcitrulline
+2-hydroxypalmitate
+docosapentaenoate (n6 DPA; 22:5n6)
+gulonate*
+isobutyrylglycine
+glutarylcarnitine (C5-DC)
+2-methylmalonylcarnitine (C4-DC)
+tiglylcarnitine (C5:1-DC)
+hydroquinone sulfate
