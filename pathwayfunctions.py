@@ -1,4 +1,9 @@
-def t_tests(matrix, classes, multiple_correction_method):
+import pandas as pd
+import numpy as np
+import statsmodels.api as sm
+import scipy.stats as stats
+
+def t_tests(matrix, classes, multiple_correction_method, return_stat=False):
     """
     Function for two tailed t-tests
     :param Matrix: Metabolite abundance matrix with columns representing metabolites and rows representing samples
@@ -8,15 +13,22 @@ def t_tests(matrix, classes, multiple_correction_method):
     """
     metabolites = matrix.columns.tolist()
     matrix['Target'] = pd.factorize(classes)[0]
-    disease = matrix.loc[matrix["Target"] == 0]
+    
+    disease = matrix[matrix["Target"] == 0].copy()
     disease.drop(['Target'], axis=1, inplace=True)
-    ctrl = matrix.loc[matrix["Target"] != 0]
+    ctrl = matrix[matrix["Target"] != 0].copy()
     ctrl.drop(['Target'], axis=1, inplace=True)
 
     pvalues = stats.ttest_ind(disease, ctrl)[1]
+    tstat = stats.ttest_ind(disease, ctrl)[0]
     padj = sm.stats.multipletests(pvalues, 0.05, method=multiple_correction_method)
-    results = pd.DataFrame(zip(metabolites, pvalues, padj[1]),
-                           columns=["Metabolite", "P-value", "P-adjust"])
+    
+    if return_stat:
+        results = pd.DataFrame(zip(metabolites, pvalues, padj[1], tstat),
+                               columns=["Metabolite", "P-value", "P-adjust", "t-statistic"])
+    else:
+        results = pd.DataFrame(zip(metabolites, pvalues, padj[1]),
+                               columns=["Metabolite", "P-value", "P-adjust"])
     return results
 
 def over_representation_analysis(DA_list, background_list, pathways_df):
