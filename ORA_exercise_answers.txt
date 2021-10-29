@@ -1,0 +1,23 @@
+# STEP ONE
+# Use the t-test function to compute t-tests 
+# Use "fdr_bh" (Benjamini-Hochberg method) as the parameter for multiple testing correction for the t-test function
+t_testres_covid_severity = pathwayfunctions.t_tests(covid_KEGG_mild_severe.iloc[:, :-2], covid_KEGG_mild_severe["Group"], "fdr_bh")
+
+# Select differentially abundant metabolites by filtering on the adjusted P-value at ≤ 0.05
+DA_metabolites_covid_severity = t_testres_covid_severity[t_testres_covid_severity["P-adjust"] <= 0.05]["Metabolite"].tolist()
+
+print(len(DA_metabolites_covid_severity))
+
+# Obtain the background set 
+assay_specific_background_set_covid_severity = covid_KEGG_mild_severe.iloc[:, :-2].columns.tolist()
+
+# STEP TWO
+# Run ORA
+ora_res_covid_severity = pathwayfunctions.over_representation_analysis(DA_metabolites_covid_severity,
+                                                                      assay_specific_background_set_covid_severity,
+                                                                      KEGG_human_pathways)
+                                                                      
+                                                                     
+                                                                     
+# Use the pandas .sort_values() method to sort the ORA results dataframe by pathway p-values
+print(ora_res_covid_severity.sort_values(by="P-value"))
